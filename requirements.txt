@@ -1,0 +1,14 @@
+streamlit
+streamlit-authenticator==0.4.2
+pymongo
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+bcrypt
+PyYAML
+cryptography
+captcha
+extra-streamlit-components
+PyJWT
